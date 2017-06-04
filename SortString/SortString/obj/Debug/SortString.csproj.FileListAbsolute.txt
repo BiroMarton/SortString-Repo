@@ -1,0 +1,6 @@
+D:\GitRepo\SortString-Repo\SortString\SortString\bin\Debug\SortString.exe.config
+D:\GitRepo\SortString-Repo\SortString\SortString\bin\Debug\SortString.exe
+D:\GitRepo\SortString-Repo\SortString\SortString\bin\Debug\SortString.pdb
+D:\GitRepo\SortString-Repo\SortString\SortString\obj\Debug\SortString.csprojResolveAssemblyReference.cache
+D:\GitRepo\SortString-Repo\SortString\SortString\obj\Debug\SortString.exe
+D:\GitRepo\SortString-Repo\SortString\SortString\obj\Debug\SortString.pdb
